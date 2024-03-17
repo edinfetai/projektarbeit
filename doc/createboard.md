@@ -1,27 +1,33 @@
-#  CREATE BOARD: MyApp
+#  CREATE BOARD: E-Learning-Plattform
 
-![Use case diagram](figures/uc-diagram.drawio.svg)
 
 ## IDEEN-BESCHREIBUNG
-> Im Feld Ideenbeschreibung notieren wir den Kern unserer Idee. Sie sollte sich auf einen klaren Anwendungsfall fokussieren und diesen beschreiben.
+Entwicklung einer integrierten E-Learning-Plattform, die adaptives Lernen mit personalisierten Lernpfaden, interaktiven Kursen und einer Gemeinschaft für kollaboratives Lernen kombiniert. Die Plattform nutzt fortschrittliche Technologien, um ein engagierendes, effektives und zugängliches Online-Lernerlebnis zu bieten.
 
 ## ADRESSIERTE NUTZER
-> Im Feld Adressierte NutzerInnen schreiben wir Details und Besonderheiten zu den NutzerInnen auf, für die wir unsere Lösungsidee entwickeln.
+- Lehrkräfte: Diejenigen, die nach einer umfassenden Lösung suchen, um Kurse zu erstellen, zu verwalten und den Fortschritt ihrer Schüler zu verfolgen.
+- Schüler und lebenslange Lerner: Individuen aller Altersgruppen, die ihr Wissen erweitern, neue Fähigkeiten erlernen oder sich auf akademische oder berufliche Ziele vorbereiten möchten.
+- Bildungsinstitutionen: Schulen, Hochschulen und Weiterbildungseinrichtungen, die ihre bestehenden Lehrpläne digital erweitern oder verbessern möchten.
 
 ## ADRESSIERTE BEDÜRFNISSE
-> In Feld Bedürfnisse notieren wir die Bedürfnisse der NutzerInnen, die wir mit unserer Idee erfüllen wollen.
+- Zugriff auf qualitativ hochwertige, vielfältige Lerninhalte.
+- Personalisierte Lernerfahrungen, die den individuellen Lernstilen, Geschwindigkeiten und Zielen entsprechen.
+- Flexibilität im Lernen, unabhängig von Zeit und Ort.
+- Interaktive und kollaborative Lernumgebungen, die Engagement und tieferes Verständnis fördern.
 
 ## PROBLEME
-> Im Feld Probleme notieren wir die ein bis drei drängendsten Probleme, die mit diesen Bedürfnissen zu tun haben.
+- Mangel an personalisierten Lernwegen, die sich an die individuellen Fähigkeiten und Bedürfnisse der Lernenden anpassen.
+- Fehlende Interaktion und Engagement in vielen Online-Lernplattformen, was zu geringerer Motivation und Lernerfolg führt.
+- Schwierigkeiten für Lehrkräfte, den Lernfortschritt effektiv zu überwachen und anzupassen, insbesondere in großen oder heterogenen Gruppen.
 
 ## IDEENPOTENZIAL
 Mehrwert: Mückenstich vs. Hai-Attacke
 
-🔵🔵🔵⚪️⚪️⚪️⚪️⚪️⚪️⚪️
+🔵🔵🔵🔵🔵🔵🔵🔵⚪️⚪️
 
 Übertragbarkeit: Robinson Crusoe vs. die Welt
 
-🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️⚪️
+🔵🔵🔵🔵🔵🔵⚪️⚪️⚪️⚪️
 
 Machbarkeit: Hammer vs. Raumschiff
 
@@ -29,10 +35,10 @@ Machbarkeit: Hammer vs. Raumschiff
 
 
 ## DAS WOW
-> Im Feld Das Wow notieren wir das eine Detail unserer Lösungsidee, für das wir in der Presse gefeiert werden wollen.
+Das Wow-Element der Plattform ist die Kombination aus KI-gesteuerten personalisierten Lernpfaden, die sich dynamisch an den Fortschritt und die Vorlieben der Nutzer anpassen, und einer starken Community-Funktion, die kollaboratives Lernen und Peer-Support ermöglicht.
 
 ## HIGH-LEVEL-KONZEPT
-> Im Feld High-Level-Konzept notieren wir eine griffige Analogie, mit der wir unsere Lösungsidee beschreiben könnten.
+"Das Netflix des Online-Lernens" – eine Plattform, die für jeden Nutzer personalisierte Lerninhalte empfiehlt, unterstützt durch Community-Features, die das Lernen interaktiv, ansprechend und sozial machen.
 
 ## WERTVERSPRECHEN
-> Ins Feld Wertversprechen schreiben wir unsere Lösungshypothese. Sie ist die Synthese aus Idee, NutzerIn, Bedürfnis und Ideenpotenzial. Und sie ist unsere Antwort auf die Wie-können-wir-Frage aus den EXPLORE-BOARD.
+Unsere Plattform revolutioniert das Online-Lernen, indem sie individuell zugeschnittene Lernerfahrungen mit einer interaktiven und unterstützenden Lerngemeinschaft verbindet. Sie bietet eine einzigartige Lösung, die Lernende motiviert, ihr volles Potenzial auszuschöpfen, während sie Lehrkräften leistungsstarke Tools an die Hand gibt, um den Erfolg ihrer Schüler effektiv zu fördern und zu verfolgen.
